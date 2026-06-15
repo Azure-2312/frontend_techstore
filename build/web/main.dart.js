@@ -80374,7 +80374,7 @@ var $async$yO=A.S(function(c,d){if(c===1)return A.O(d,r)
 for(;;)switch(s){case 0:o=J
 n=J
 s=3
-return A.U(p.a.zn("https://backend-flask-aen6.onrender.com/api/login",A.aq(["username",a,"password",b],t.N,t.z)),$async$yO)
+return A.U(p.a.zn("https://backend-techstore-1zjv.onrender.com/api/login",A.aq(["username",a,"password",b],t.N,t.z)),$async$yO)
 case 3:q=o.c(n.iv(d,"ok"),!0)
 s=1
 break
@@ -80386,7 +80386,7 @@ var $async$yL=A.S(function(a,b){if(a===1)return A.O(b,r)
 for(;;)switch(s){case 0:n=J
 m=t.j
 s=3
-return A.U(p.a.e2("https://backend-flask-aen6.onrender.com/api/productos"),$async$yL)
+return A.U(p.a.e2("https://backend-techstore-1zjv.onrender.com/api/productos"),$async$yL)
 case 3:o=n.kZ(m.a(b),new A.a82(),t.bg)
 o=A.Z(o,o.$ti.i("af.E"))
 q=o
@@ -80400,7 +80400,7 @@ var $async$j8=A.S(function(b,c){if(b===1)return A.O(c,r)
 for(;;)switch(s){case 0:n=J
 m=t.j
 s=3
-return A.U(p.a.e2("https://backend-flask-aen6.onrender.com/api/productos/buscar?q="+A.EZ(2,a,B.W,!1)),$async$j8)
+return A.U(p.a.e2("https://backend-techstore-1zjv.onrender.com/api/productos/buscar?q="+A.EZ(2,a,B.W,!1)),$async$j8)
 case 3:o=n.kZ(m.a(c),new A.a81(),t.bg)
 o=A.Z(o,o.$ti.i("af.E"))
 q=o
